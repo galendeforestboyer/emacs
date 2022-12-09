@@ -11,3 +11,4 @@
 .emacs.d/tramp
 .emacs.d/url/
 .*~
+.ssh
