@@ -1,0 +1,35 @@
+;;;; Emacs Bookmark Format Version 1 ;;;; -*- coding: utf-8-emacs -*-
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+((".emacs"
+ (filename . "~/.emacs")
+ (front-context-string . "(setq ibuffer-sa")
+ (rear-context-string . "s \"default\")))\n\n")
+ (position . 1366))
+("ERStudio/XML"
+ (filename . "~/AppData/Roaming/Idera/ERStudio/XML/")
+ (front-context-string . "ExtractV1.202008")
+ (rear-context-string . "086 08-10 22:22 ")
+ (position . 246))
+("radon"
+ (filename . "//radon/bussys/ETLS/")
+ (front-context-string . "AD2SECURITY\n  -r")
+ (rear-context-string . "  0 08-01 17:12 ")
+ (position . 209))
+("abbrev_defs"
+ (filename . "~/.emacs.d/abbrev_defs")
+ (front-context-string . "    (\"gs\" \"git s")
+ (rear-context-string . "brev-table\n  '(\n")
+ (position . 75))
+("notes.txt"
+ (filename . "c:/Users/boyer/notes.txt")
+ (front-context-string . "\n\nPlease hang on")
+ (rear-context-string . "BruceSpringsteen")
+ (position . 79))
+("index.html"
+ (filename . "~/index.html")
+ (front-context-string . "<a href=\"https:/")
+ (rear-context-string . "lendar</a>]<br>\n")
+ (position . 526))
+)
