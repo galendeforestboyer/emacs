@@ -3,12 +3,5 @@
 .newsrc.eld
 .tramp.el
 .authinfo
-.emacs.d/auto-save-list/
-.emacs.d/bookmarks
-.emacs.d/elpa/
-.emacs.d/network-security.data
-.emacs.d/timelog
-.emacs.d/tramp
-.emacs.d/url/
 .*~
 .ssh
