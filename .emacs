@@ -12,12 +12,12 @@
 (add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/") t)
 (package-initialize)
 
-(add-to-list 'load-path "c:/GITHUB/External/yaml-mode")
-(require 'yaml-mode)
-(add-to-list 'auto-mode-alist '("\\.yml\\'" . yaml-mode))
-(add-hook 'yaml-mode-hook
-	  '(lambda ()
-             (define-key yaml-mode-map "\C-m" 'newline-and-indent)))
+;; (add-to-list 'load-path "c:/GITHUB/External/yaml-mode")
+;; (require 'yaml-mode)
+;; (add-to-list 'auto-mode-alist '("\\.yml\\'" . yaml-mode))
+;; (add-hook 'yaml-mode-hook
+;; 	  '(lambda ()
+;;              (define-key yaml-mode-map "\C-m" 'newline-and-indent)))
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
@@ -34,7 +34,7 @@
 (put 'downcase-region 'disabled nil)
 (put 'upcase-region 'disabled nil)
 
-(global-set-key "\C-x\C-b" 'ibuffer)
+(global-set-key "\C-x\M-b" 'ibuffer)
 
 (show-paren-mode 1)
 

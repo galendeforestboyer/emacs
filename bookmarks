@@ -23,12 +23,12 @@
  (rear-context-string . "brev-table\n  '(\n")
  (position . 75))
 ("notes.txt"
- (filename . "c:/Users/boyer/notes.txt")
+ (filename . "c:/GITHUB/broad/notes.boyer.txt")
  (front-context-string . "\n\nPlease hang on")
  (rear-context-string . "BruceSpringsteen")
  (position . 79))
 ("index.html"
- (filename . "~/index.html")
+ (filename . "c:/GITHUB/broad/index.html")
  (front-context-string . "<a href=\"https:/")
  (rear-context-string . "lendar</a>]<br>\n")
  (position . 526))

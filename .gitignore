@@ -5,3 +5,5 @@
 .authinfo
 .*~
 .ssh
+network-security.data
+url
