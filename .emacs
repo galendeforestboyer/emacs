@@ -47,7 +47,8 @@
                ("shell" (or
 			 (name . "\\.cmd$")
                          (mode . comint-mode)
-			 (mode . shell-mode)))
+			 (mode . shell-mode)
+                         (mode . eshell-mode)))
                ("sql" (or
                          (name . "\\.sql$")))
                ("raw" (or
@@ -87,3 +88,7 @@
 ;; ... after which it's as easy as:
 ;;
 ;; C-x C-f /gcssh:compute-instance:/path/to/filename.clj
+
+(defun my-process-shell-finished()
+  (shell))
+(advice-add 'comint-send-input :after #'my-process-shell-finished)
