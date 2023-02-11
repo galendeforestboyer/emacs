@@ -2,7 +2,37 @@
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-((".emacs"
+(("oih-staging"
+ (filename . "c:/GITHUB/EDM/EDM-829-compile-the-oih-stage-files/DBT/models/01_staging/oih/")
+ (front-context-string . ".sql\n  -rw-rw-rw")
+ (rear-context-string . "C_EXPD_ITEM_DIST")
+ (position . 4551))
+("oih-mart"
+ (filename . "c:/GITHUB/EDM/EDM-829-compile-the-oih-stage-files/DBT/models/03_marts/finance/")
+ (front-context-string)
+ (rear-context-string . "0 01-26 12:38 .\n")
+ (position . 219))
+("oih_staging"
+ (filename . "c:/GITHUB/EDM/EDM-829-compile-the-oih-stage-files/DBT/models/01_staging/oih/")
+ (front-context-string . "_src_oih.yml\n  -")
+ (rear-context-string . "074 02-07 16:47 ")
+ (position . 273))
+("huron"
+ (filename . "c:/GITHUB/HURON/dbt/Config/")
+ (front-context-string . "OIH_Mapping.dbt.")
+ (rear-context-string . "390 01-18 13:03 ")
+ (position . 438))
+("Notes.OIH.txt"
+ (filename . "c:/GITHUB/broad/Notes.OIH.txt")
+ (front-context-string . "\n---------------")
+ (rear-context-string . "le represented?\n")
+ (position . 908))
+("Notes.DBT.txt"
+ (filename . "c:/GITHUB/broad/Notes.DBT.txt")
+ (front-context-string . "I believe dbt_pr")
+ (rear-context-string . "---------------\n")
+ (position . 6851))
+(".emacs"
  (filename . "~/.emacs")
  (front-context-string . "(setq ibuffer-sa")
  (rear-context-string . "s \"default\")))\n\n")
