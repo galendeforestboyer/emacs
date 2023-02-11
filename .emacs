@@ -49,14 +49,14 @@
                          (mode . comint-mode)
 			 (mode . shell-mode)
                          (mode . eshell-mode)))
-               ("sql" (or
-                         (name . "\\.sql$")))
+               ("python" (or
+                          (name . "\\.py$")))
                ("raw" (or
 			(name . "\\.csv$")
 			(name . "\\.out$")
                         (name . "\\.txt$")))
-               ("python" (or
-                          (name . "\\.py$")))
+               ("sql" (or
+                         (name . "\\.sql$")))
                ("emacs" (or
                          (name . "^\\*scratch\\*$")
                          (name . "^\\*Messages\\*$")
@@ -89,6 +89,10 @@
 ;;
 ;; C-x C-f /gcssh:compute-instance:/path/to/filename.clj
 
-(defun my-process-shell-finished()
-  (shell))
-(advice-add 'comint-send-input :after #'my-process-shell-finished)
+;; (defun my-process-shell-finished()
+;;   (shell))
+;; (advice-add 'comint-send-input :after #'my-process-shell-finished)
+
+(defun my-start-command-shell()
+    (interactive)
+    (start-process-shell-command (format "cmd(%s)" default-directory) nil "start cmd"))
