@@ -2,7 +2,22 @@
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-(("oih-staging"
+(("notes.DADJOKES.txt"
+ (filename . "c:/GITHUB/broad/notes.DADJOKES.txt")
+ (front-context-string . "The Future, The ")
+ (rear-context-string . "ets for years.\n\n")
+ (position . 2942))
+("ErwinTemplates"
+ (filename . "c:/Program Files/erwin/Data Modeler r9/BackupFiles/Templates/")
+ (front-context-string . "GoogleBigQuery.f")
+ (rear-context-string . "797 10-25 07:47 ")
+ (position . 889))
+("rpt_OSR_Award_Close_Out_Review.sql"
+ (filename . "c:/GITHUB/EDM/EDM-921-reporting-object-award-close-out-review/DBT/models/03_marts/finance/rpt_OSR_Award_Close_Out_Review.sql")
+ (front-context-string . "../../01_staging")
+ (rear-context-string . "_CMTMT_TRXN.sql\n")
+ (position . 294))
+("oih-staging"
  (filename . "c:/GITHUB/EDM/EDM-829-compile-the-oih-stage-files/DBT/models/01_staging/oih/")
  (front-context-string . ".sql\n  -rw-rw-rw")
  (rear-context-string . "C_EXPD_ITEM_DIST")
@@ -29,9 +44,9 @@
  (position . 908))
 ("Notes.DBT.txt"
  (filename . "c:/GITHUB/broad/Notes.DBT.txt")
- (front-context-string . "I believe dbt_pr")
- (rear-context-string . "---------------\n")
- (position . 6851))
+ (front-context-string . "\n\n\n- How to use ")
+ (rear-context-string)
+ (position . 10))
 (".emacs"
  (filename . "~/.emacs")
  (front-context-string . "(setq ibuffer-sa")

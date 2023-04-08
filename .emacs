@@ -1,7 +1,13 @@
+(add-to-list 'load-path "c:/users/boyer/.emacs.d")
+
+(require 'loccur)
 (tool-bar-mode -1)
 (setq save-abbrevs 'silently)
 (setq-default abbrev-mode t)
 (global-set-key (kbd "\C-ct") 'toggle-truncate-lines)
+(global-unset-key (kbd "\C-z"))
+(global-unset-key (kbd "\C-x C-c"))
+
 (require 'dired-x)
 
 (setq-default indent-tabs-mode nil)
