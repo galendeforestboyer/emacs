@@ -102,3 +102,20 @@
 (defun my-start-command-shell()
     (interactive)
     (start-process-shell-command (format "cmd(%s)" default-directory) nil "start cmd"))
+
+(defun my-list-of-gcp-terra-projects()
+  (interactive)
+  (completing-read "Prompt: "
+                   '("broad-bits-tapestry-prod"
+                     "broad-bits-tapestry-dev"
+                     "broad-bits-tapestry-oih-dev")))
+
+(defun my-list-of-gcp-sbx-projects()
+  (interactive)
+  (completing-read "Prompt: "
+                   '("broadie-sbx-gboyer-edm-01"
+                     "broadie-sbx-tkahura-edm-01"
+                     "broadie-sbx-brichman-edm-01"
+                     "broadie-sbx-gbernard-edm-01"
+                     "broadie-sbx-schoudha-01"
+                     "broadie-sbx-tkota-edm-01")))
