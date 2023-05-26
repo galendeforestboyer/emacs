@@ -1,12 +1,27 @@
-;;;; Emacs Bookmark Format Version 1 ;;;; -*- coding: utf-8-emacs -*-
+;;;; Emacs Bookmark Format Version 1 ;;;; -*- coding: iso-latin-1 -*-
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-(("notes.DADJOKES.txt"
- (filename . "c:/GITHUB/broad/notes.DADJOKES.txt")
- (front-context-string . "The Future, The ")
- (rear-context-string . "ets for years.\n\n")
- (position . 2942))
+(("Notes.GCP.txt"
+ (filename . "c:/GITHUB/broad/Notes.GCP.txt")
+ (front-context-string . "Could BigQuery a")
+ (rear-context-string)
+ (position . 1))
+("Notes.ERStudio.txt"
+ (filename . "c:/GITHUB/broad/Notes.ERStudio.txt")
+ (front-context-string . "\nBUGS:\n\n\nReverse")
+ (rear-context-string)
+ (position . 1))
+("notes.home.txt"
+ (filename . "~/.emacs.d/notes.home.txt")
+ (front-context-string . "\n\n\n\nNolan:\nHave ")
+ (rear-context-string . "puter, Keyboards")
+ (position . 171))
+("notes.DADJOKES.txt"
+ (filename . "~/.emacs.d/notes.DADJOKES.txt")
+ (front-context-string . "I once swallowed")
+ (rear-context-string . "s stool taken?\n\n")
+ (position . 5710))
 ("ErwinTemplates"
  (filename . "c:/Program Files/erwin/Data Modeler r9/BackupFiles/Templates/")
  (front-context-string . "GoogleBigQuery.f")
@@ -39,9 +54,9 @@
  (position . 438))
 ("Notes.OIH.txt"
  (filename . "c:/GITHUB/broad/Notes.OIH.txt")
- (front-context-string . "\n---------------")
- (rear-context-string . "le represented?\n")
- (position . 908))
+ (front-context-string . "In DIM_VENDOR, w")
+ (rear-context-string)
+ (position . 1))
 ("Notes.DBT.txt"
  (filename . "c:/GITHUB/broad/Notes.DBT.txt")
  (front-context-string . "\n\n\n- How to use ")
