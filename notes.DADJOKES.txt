@@ -1,3 +1,4 @@
+hoop zig
 jacqueakhan
 
 # A man knocked on my door today asking for a donation for the local swimming pool.
@@ -30,8 +31,8 @@ Apparently, "Its just you." wasn't the right answer.
 # I told my wife, she needs to embrace her mistakes.
 # She gave me a hug.
 
-My wife asked me "Why don't you treat me like you treated me when we were first dating?"
-So, I took her to a dinner and a movie then dropped her off at her parents.
+# My wife asked me "Why don't you treat me like you treated me when we were first dating?"
+# So, I took her to a dinner and a movie then dropped her off at her parents.
 
 Bread is like the sun.
 It rises in the Yeast and sets in the Wheast.
@@ -123,8 +124,8 @@ Extra-Terrestrials
 There was once a soldier who survived Mustard Gas and Pepper Spray, AT THE SAME TIME!
 He was a seasoned veteran.
 
-I once read a book on Anti-Gravity.
-Just couldn't put it down.
+# I once read a book on Anti-Gravity.
+# Just couldn't put it down.      
 
 The reason why towels don't tell jokes?
 Their sense of humor is pretty dry.
@@ -135,14 +136,14 @@ It was a play on words and scene.
 # The shovel?
 # Now that was a ground breaking invention.       
 
-What do you call a fake noodle?
-An impasta.
+# What do you call a fake noodle?
+# An impasta.
 
 # I just read up on Atheism.
 # Turns out its a non prophet organization.
 
-Do you know why shellfish are disliked?
-They are just so arrogant and shellfish.
+# Do you know why shellfish are disliked?
+# They are just so arrogant and shellfish.
 
 # A History degree is useless.
 # There is no future in it.
@@ -187,8 +188,8 @@ Then it dawned on me.
 
 Do gun manuals have a trouble-shooting section?
 
-My job wants me to sign up for a 401K
-There is no way I'm running that far.
+# My job wants me to sign up for a 401K
+# There is no way I'm running that far.
 
 There is a fine line between fishing
 and standing on the shore looking like an idiot.
@@ -202,26 +203,26 @@ So, I bought myself a puppy to cheer myself up.
 Whats a storm trooper's favorite store?
 The one next to Target.
 
-I tried and failed at raising vegetables this year, so I decided to become a music producer.
-I have a ton of sick beets.
+# I tried and failed at raising vegetables this year, so I decided to become a music producer.
+# I have a ton of sick beets.
 
 A dung beetle walks into a bar and says,
 Is this stool taken?
 
-I once swallowed a book of synonyms.
-It gave me thesaurus throat I ever had.
+# I once swallowed a book of synonyms.
+# It gave me thesaurus throat I ever had.
 
 Never have multiple people washing dishes together.
 Its very difficult for them to stay in sync.
 
-Did you hear about the circus that caught on fire?
-It was in tents?
+# Did you hear about the circus that caught on fire?
+# It was in tents?
 
-I asked my friend Nick if he had 5 cents I could borrow.
-But, he was Nicholas.
+# I asked my friend Nick if he had 5 cents I could borrow.
+# But, he was Nicholas.
 
-People in Athens don't usually don't get up before sunrise.
-Dawn is tough on Grease.
+# People in Athens don't usually don't get up before sunrise.
+# Dawn is tough on Grease.
 
 A ship carrying Blue paint and a ship carrying Red paint collide in the middle of the ocean.
 Both crews were marooned.
@@ -229,20 +230,20 @@ Both crews were marooned.
 Public service announcement.
 Hopefully everyone is okay with that.
 
-What do you call a beehive with no exit?
-Unbelievable.
+# What do you call a beehive with no exit?
+# Unbelievable.
 
-The greenest presidents in US history,
-The bushes.
+# The greenest presidents in US history,
+# The bushes.
 
-I entered a weather pun contest.
-I beat the raining champion.
+# I entered a weather pun contest.
+# I beat the raining champion.
 
-Do you know how to get a farm girl to go out with you?
-A tractor?
+# Do you know how to get a farm girl to go out with you?
+# A tractor?
 
-The population of Ireland's capital city is always growing.
-In fact, every year, its Dublin.
+# The population of Ireland's capital city is always growing.
+# In fact, every year, its Dublin.
 
 I'm patenting corderoy pillows. You will see them soon.
 They are making headlines.
@@ -278,11 +279,11 @@ Because it had vowel movement.
 Never tell secrets in cornfields.
 Too many ears around.
 
-What does the pirate pay for corn?
-A buck an ear.
+# What does the pirate pay for corn?
+# A buck an ear.
 
-What do you call a girl between two posts.
-Annette.
+# What do you call a girl between two posts.
+# Annette.
 
 I generally fear for the modern calendar.
 It's days are numbered.
@@ -293,14 +294,14 @@ It gets toad.
 FYI, a fly without wings
 is called a walk.
 
-My buddy got on one knee.  She pulled a gun on him.
-I guess she didn't know anything about the rules of engagement.
+# My buddy got on one knee.  She pulled a gun on him.
+# I guess she didn't know anything about the rules of engagement.
 
 # I really miss my sense of pessimissum.
 # I don't think I'll ever get it back.
 
-So where do cow farts come from?
-Dairy Air.
+# So where do cow farts come from?
+# Dairy Air.
 
 How do you say "No TV" in Russian?
 Neit Flix.
@@ -315,20 +316,20 @@ Nobody's heard?
 Do you know James Bond takes a bath?
 We call him Bubble-O-7
 
-A bossy man goes into a bar.
-Then he orders everyone around.
+# A bossy man goes into a bar.
+# Then he orders everyone around.
 
 # I seem to only get sick on Saturdays and Sundays.
 # I guess I have a weekend immune system.
 
-A frenchman wearing sandals is called
-Philippe Flop.
+# A frenchman wearing sandals is called
+# Philippe Flop.
 
 Why doesn't Marvel use the Hulk to advertise more?
 I mean, he is basically is just one Big Banner.
 
-Did you know your eyes are the last thing to stop working when you die?
-That's because your pupils die late.
+# Did you know your eyes are the last thing to stop working when you die?
+# That's because your pupils die late.
 
 # What do you a bunch of men in line waiting to get haircuts?
 # A barber queue.
@@ -341,7 +342,7 @@ Look bro how far I can kick this bucket.
 
 
 1 - I'd kill for a Nobel Peace Prize.
-2 - Borrow money from pessimists -- they don't expect it back.
+# 2 - Borrow money from pessimists -- they don't expect it back.
 3 - Half the people you know are below average.
 4 - 99% of lawyers give the rest a bad name.
 5 - 82.7% of all statistics are made up on the spot.
@@ -362,7 +363,7 @@ Look bro how far I can kick this bucket.
 20 - If Barbie is so popular, why do you have to buy her friends?
 21 - Eagles may soar, but weasels don't get sucked into jet engines.
 22 - What happens if you get scared half to death twice?
-23 - My mechanic told me, "I couldn't repair your brakes, so I made your horn louder."
+# 23 - My mechanic told me, "I couldn't repair your brakes, so I made your horn louder."
 24 - Why do psychics have to ask you for your name
 25 - If at first you don't succeed, destroy all evidence that you tried.
 26 - A conclusion is the place where you got tired of thinking.
@@ -375,3 +376,610 @@ Look bro how far I can kick this bucket.
 33 - Everyone has a photographic memory; some just don't have film.
 # 34 - If at first you don't succeed, skydiving is not for you.
 35 - If your car could travel at the speed of light, would your headlights work
+
+
+Earlier this past April, they say a guy went in and swapped all the labels at a gas station.
+It was an April Fuels joke.
+
+# So why does Piglet stink?
+# You would to if you played with Pooh all day.
+
+I googled "How to start a wildfire."
+I got 48507 matches back.
+
+A man who invented to USB passed away.
+It took 3 tries to get the coffin pointed in the right direction.
+
+You know how 2 French guys would share digital files?
+Usually it is a Pierre to Pierre network.
+
+I left my job today.  I couldn't work for that dude after what he said to me!
+He said, "Galen, you are fired."
+
+Rest in Peace Harry Belefante.
+I wonder how far down they have to bury him?  6-foot, 7-foot, 8-foot..
+
+A color blind friend of mine insists that all apples are yellow.
+Nah bro, that's bananas.
+
+A math teacher used to tell me I'm just average.
+That is just mean.
+
+I bought my daughter a lamp in the shape of a coke bottle.
+She was Soda Lighted.
+
+I picked a baby strawberry and it started to cry.
+Mostly because its parents were in a jam.
+
+My friend Miles moved to England.
+They made him change his name to Kilometers.
+
+Did you know fish like to get high?
+Seaweed.
+
+Do you know why Russia smells so bad?
+Their president is always Putin.
+
+Why are Cowboys suddenly buying Dachhounds?
+I think it because of that song, "Get along little doggy."
+
+You know there is no real training for garbage men.
+They just pick things up as they go.
+
+This is the definitive way to tell the difference between a crocodile and an alligator.
+One you will see later, the other you will see after awhile.
+
+I watched the candleshop burn down. Noone tried to put the fire out.
+They just stood around singing Happy Birthday.
+
+Have you had amnesia and deja-vu at the same time?
+I'm pretty sure I've forgotten this before.
+
+The first time I got a Univeral remote, I thought to myself
+"This changes everything"
+
+I was at the library and I asked for books on paranoia.
+The librarian told me, "They are right behind you."
+
+You may not know this but I was in an 80s band called "The Prevention"
+We were better than "The Cure".
+
+Its a shame nothing is made in this country anymore.
+Last TV I bought said built-in antenna.  I don't even know where that is.
+
+Do you what Icecube's kids used to call him?
+Popsicle
+
+What does a tapeworm and the Eiffel Tower have in common?
+They are both parasites.
+
+My girl poked me once in both eyes.
+I had to stop seeing her for awhile.
+
+Just found out the sound a cow makes when it runs out of milk.
+None.  Its udder silence.
+
+Don't accept shampoo.
+Demand real poo.
+
+Made a playlist for hiking.
+It contains songs from Peanuts, Cranberries and M@Ms. I call it My Trailmix
+
+Hey, true housekeepers aren't born.
+They are maid.
+
+You know what I hate?  When you sincerely compliment your friends mustache.
+Suddenly, she is not your friend anymore.
+
+# To everyone suffering from paranoia?
+# Just remember, you are not alone.
+
+The lighthouse ...
+is actually heavy.
+
+Hi, if you are here for the yoddling lesson?
+Please form an orderly orderly orderly orderly gueue.
+
+# Despite the high cost of living?
+# It still remains popular.
+
+I hate it when people say "Age is nothing but a number"
+Age is clearly a word.
+
+My addiction to helium is out of control.
+Nobody is taking my cry for help seriously.
+
+How do you split an ocean in half?
+Sea Sawlt.
+
+So noone knows Yoda's last name?
+Layheehoo
+
+My wife left me five days ago for not paying attention to her.
+I only found out today.
+
+I was named after my dad.
+Obviously I couldn't be named before him.
+
+What's better than a Dad Bod?
+A Father Figure.
+
+Tried to make a joke about social distancing.
+
+I struggle with Roman Numerals until I get to 159.
+Then it just CLIX.
+
+Yesterday I confused the words Jacuzzi and Yakuza
+Now I'm hot water with the Japanese Mafia.
+
+# I found 10 ants walking around my kitchen.  So I built a house for them.
+# Now I collect rent from my ten ants.
+
+I'm a dyslexic agnostic insomniac.
+Just last night I could not sleep because I just kept thinking: what if dog doesn't exist?
+
+Dyslexics of the world untie!
+
+I was told that, because I'm dyslexic, I'd be horrible at poetry
+but so far I've made 2 vases and an ashtray that look amazing. (pottery)
+
+I've lost all control.  There is no escape!!!
+I've lost my keyboard.
+
+I said "I need a break"
+My mechanic responded, "You are better off with a full set"
+
+I refuse to go to my 30th high school reunion.
+They named me most likely to hold a grudge.
+
+Late last night I got pulled over by a cop.  "Yes sir, I'm on my way to a lecture about alcohol and smoking and  the affects it has on the human body".  Cop then asked, "Who gives a lecture at such a late hour?"
+I answered, "My wife".
+
+My wife said "Hi honey, I got these today.  Do they make me look fat?"
+I answered, "Do you promise not to get mad no matter what I say?"
+She answered, "I promise"
+I said, "I smoked cracked today and sold the car."
+
+You may not be the best roofer on the team
+but, I'd say you are definitely up there.
+
+I got into an argument the other day about which vowel is most important.
+I won.
+
+If you buy a bigger bed
+You have more bedroom as well as less bedroom.
+
+On the weekends I like to play chess with elderly men in the park.
+The hardest part is finding 32 of them.
+
+You know you can get paid to sleep?
+Its a dream job.
+
+My wife and I share the same sense of humor.
+She does not have one.
+
+# Everyone used to laugh at me when I told them I wanted to be a comedian.
+# Guess what.  They are not laughing now.
+
+A man came home to find out all his lights were gone.
+He was delighted.
+
+Do you want to buy a broken barometer.
+No pressure.
+
+Interviewer: So Galen, what do you consider as your greatest weakness towards employment.
+Me: I'm brutally honest.
+Interviewer: That sounds like a strength to me.
+Me: You are an idiot.
+
+Boss: You wanted to talk to me?
+Me: Yeah, I was wondering about a day off next week.  My mother-in-law is coming to town.
+Boss:  No, I don't think we can do that.
+Me: Thank you for being so understanding!
+
+# I got robbed by six dwarves last night.
+# Not Happy.   
+
+Me: Hey honey, does my chin look fat.
+Wife: Which one?
+
+Have you heard of the blind cyclop's brothers?
+Neither have eye.
+
+# My friend Jack said he could talk to vegetables.
+# Jack and the Beans talk.
+
+Me: "I have puh-sychic powers."
+You: Puh-sychic?
+See, right now you are thinking, "Its psychic you idiot."
+
+# I don't know why July 24th isn't a holiday.
+# Do you really expect us to work 24-7?
+
+Don't ever throw sodium chloride at someone.
+Thats assault!
+
+Me:  Will you love me when I'm old, bald and fat?
+Wife: I do.
+
+Wife: You are unbelievable.  I've been giving you the silent treatment for a week and you haven't even noticed.
+Me: You know.  I thought we've been getting along better.
+
+My girlfriend called me lazy today.
+I almost replied.
+
+Me: Hey, you need a ride?
+Hitchhiker: How do you know I'm not a serial killer?
+Me: The odds of two of those in the same car are astronomical.
+
+How many bones are in a hand?
+A handfull.
+
+Me: Hey Doc, can I administer my own anesthesia?
+Doc: Sure, knock yourself out.
+
+# Hey Susan, this is George from your husband's work.  Galen has been hurt really bad. Alison rushed him to the hospital.
+# He has 2 broken legs, 2 broken arms, his collarbone is busted and he may not see out of his left eye ever again.
+# Susan: Who the hell is Alison?
+
+Ever since I hit that one chicken with the lawn mower, I've been having all kinds of weird scary stuff happening.
+I think I might have a poultrygueist.
+
+# Here's the thing about cliffhangers.
+
+My wife is mad at me because I'm not buying her flowers.
+I didn't even know she sold flowers.
+
+Doc, you've got to help me!  I think I'm shrinking and I don't know what to do!
+Hold on, be a little patient.
+
+At work people call me Mr. Compromise.
+It wasn't my first choice, but I'm okay with it.
+
+# My three favorite things in the world are:
+# Eating my family and not using commas.
+
+Wife:  I'm leaving you.  I'm sick and tired of you wearing a different shirt every 30 minutes!
+Me: Wait, I can change!
+
+# What do you call a group of chubby babies?
+# Heavy infantry
+
+# As a scarecrow
+# People say I'm outstanding in my field.
+
+The furniture store keeps calling me back all the time now.
+All I wanted was a one night stand.
+
+I saw this real idiot on the treadmill at the gym today.
+He kept putting his water bottle in the pringles holder.
+
+The trainer at the gym said I should start doing lunges to stay in shape.
+I don't know.  Its a big step forward for me.
+
+How was your flight?
+They sat me next to a baby.  I didn't think it was possible for someone to scream for 10 hours straight.
+Even the baby was impressed I pulled that off.
+
+I'm going to get a tattoo over my whole body.
+It will be of me, just taller.
+
+A moth goes into a podiatrists office and the podiatrists says, "Whats the problem?"
+The moth says, Whats the problem??? Where do I begin?
+I go to work for Gregory Vilinovich, and, uh ..., all day long I work.
+Honestly, I don't know what I do anymore.
+I only know that Gregory has power over me.
+That seems to bring him happiness.
+I wake up in a malaise. I walk here and there.
+At night I sometimes wake up and I turn to some old lady, in my bed who is on my arm.
+A lady I once loved, doc.
+I don't know where to turn to, my youngest, ... Alexandria,
+She fell in the cold of last year.
+In the cold that took her down, as it did many of us.
+And my other boy, and this is the hardest pill to swallow doc, my other boy,
+Gregaro Vilinovich, ..., I no longer love him.
+As much as it pains me to say, when I look in his eyes, all I see,
+is the same cowardis that I catch when I look at my own face in the mirror.
+If only the cowardis was stronger, then perhaps I could reach over to the cocked and loaded gun
+that lays on the bedside that lays behind me and end this hellish facade.
+He says Doc, sometimes I feel like I'm a spider, even though I'm a moth.
+Just barely hanging onto my web, with an everlasting fire underneath me.
+I'm not feeling good.
+The doctor says, "Moth, man, you are troubled.
+You should be seeing a psychiatrist.
+Why on earth did you come here?"
+
+Then the moth said:
+
+Because the light was on.
+
+
+# I got my girlfriend corrective eye surgery last Christmas.
+# She dumped New Years Eve.
+
+# I have an irrational fear of overly intricate clusters of commercial buildings.
+# Its a complex complex complex.
+
+# Wife is leaving me because I'm going bald.
+# Its hairloss.
+
+
+Most people are at the age where they are using their phone to document the good times in their lives.
+I'm at the age where I use my phone to take pictures of labels that I can't read and use my phone to enlarge the print so that I can read.
+
+If I had a dollar for every woman who found me unattractive
+I'd be attractive to most women.
+
+I ran into a lamppost yesterday.
+Thankfully I sustained only light injuries.
+
+I'm not a fan of elevator music.
+It is bad on so many levels.
+
+I have a fear of elevators.
+But, I've started taking steps to avoid it.
+
+Its a 5 minute walk from my house to the bar but 45 minute walk from the bar to my house.
+The difference is staggering.
+
+# According to science, drinking one beer shortens your life by 5 minutes.
+# According to my calculations, I died sometime in the 1830s.
+
+# What does a nosy pepper do?
+# Gets jalepeno business.
+
+# Why didn't 4 ask 5 out?
+# Because he was too squared.
+
+What do you call an alligator in a vest.
+An investigator.
+
+# Whoever invented knock knock jokes
+# Should get a nobel prize.
+
+I tried to catch fog yesterday.
+I Missed.
+
+# What did the janitor say when he jumped out of the closet?
+# Supplies!!!
+
+I saw a car being driven by a sheep in a swimsuit.
+It was lambikini.
+
+# Why do cows have hooves instead of feet.
+# Because they lactose.
+
+I had cheese with no crackers.
+It was crack a lack'n.
+
+# I got fired from the bank yesterday.  A woman asked me to check her balance.
+# So I pushed her.
+
+My dog accidently ate a whole pile of scrabble tiles.  I took him to the vet.
+Still no word.
+
+I haven't talked to my wife in seven years.
+I don't want to interrupt her.
+
+My wife was mad because I accidentally overcooked the RibEye last night.  I told her
+We all make miss-steaks.
+
+To the guy who invented zero?
+Thanks for nothing.
+
+My son asked me what it was like to be married.  So I told him to leave me alone.  When he did
+I asked "Why are you ignoring me?"
+
+If 666 is all evil
+Then 25.8069758 is the root of all evil.
+
+I made my password Cinderella, Ariel, Belle, Jasmine, Shrek, Donkey, Spiderman and Superman
+Because it has to be a minimum of 8 characters.
+
+What do you call a angry carrot?
+A steamed veggie.
+
+My hotel tried to charge me $10 extra for air conditioning.
+That wasn't cool.
+
+# What do you call 2 doctors in the same room?
+# A Paradox.  
+
+
+There's this concert that is only 45 cents.
+Fifty-cent featuring Nickelback.
+
+Why did the scarecrow get an award?
+He was outstanding in his field.
+
+Guy told me there was a shark attack today.
+A shark took out his whole left side.
+I couldn't believe when he told me he was allright.
+
+I put redbull in my coffee maker instead of water.
+When I went to work, I realized halfway I forgot my car.
+
+I told my wife I wanted to be cremated.
+She made an appt for Tuesday.
+
+I wonder what you get if you cross a Rhinoceros with an Elephant.
+Elifino.
+
+My wife said to me, I hate myself because look fat.
+I said, you have perfect eyesight honey.
+
+Have you heard of the blind cyclops brothers?
+Neither have eye.
+
+I've been struggling lately to get my wife's attention.
+So I just sat down, got comfortable.  That did the trick.
+
+--------------------------------------------------------------------------------
+Three reasons I divorced my wife:
+
+#1
+When I informed her that our neighbor died, she said "hooray"?
+I just felt it completely inappropriate time to cheer.
+
+#2
+When I told her that my favorite month was coming up.
+She said, "Why did you lie?"
+I said, "I didn't"
+
+#3
+When my dad passed away I couldn't make it to the hospital before he died.
+When I got there, she told me the doctor said my dad was pronounced dead.
+There is no way I've been mispronouncing it all my life.
+
+To be fair.  I should have known.
+The first time I asked her out, she said, "How bout 10 tomorrow?"
+You know what, that is way to many.
+
+Three reasons I divorced my wife:
+
+When our house burnt down I asked
+
+When we were looking at houses
+
+Did you know there are more airplanes in the ocean than there submarines in the air.
+Well, that's plane to sea.
+
+I found out my wife was cheating on me.  She said I'd be home 10-15 minutes Max.
+My name is Galen.
+
+Apparently 30% of their owners let their pets sleep in their bed.
+Not a good idea though.  I let mine.
+My goldfish died.
+
+They should create a beer called, occasionally.
+So when asked I say I drink occasionally.
+
+Last night my wife, while she was cooking, asked for peace and quiet.
+So, I turned the smoke detector off.
+
+I wonder what kind of doctor Dr. Pepper was?
+Fizzician
+
+# Its a 5 minute walk from my house to the bar.
+# But its a 45 minute walk from the bar to my house.
+# The difference is staggering.
+
+It does not matter whether you are short, tall, fat, thin, rich, poor.
+At the end of the day,
+It's night.
+
+
+# Do you know how you tell a joke is a Dad Joke?
+# Really, Come on!  You should know. It's apparent.
+
+Do you know who all I saw today?
+Everybody I looked at.
+
+You don't like my vision jokes?
+To bad, that is how I roll.
+
+Are my vision jokes
+too cornea for you?
+
+I'm still the master of vision jokes.
+You are but the pupil.
+
+What do you call a pile of cats?
+Meowntain.
+
+How do you count cows?
+With a cowculator.
+
+Dogs can't operate an MRI machine,
+But cats can.
+
+Remember Ivan Pavlov.
+I thought his name might ring a bell.
+
+Its weird, but Ivan Pavlov's name makes my mouth water.
+
+But you know why Ivan Pavlov's hair was so soft?
+Conditioning.
+
+Do you know why I respect and listen to the Hulk the most?
+Because he's credible.
+
+Do you know what Peter Parker does for his day job?
+Web designer?
+
+In honor of it being Thorsday?
+Let's go get hammered.
+
+I went to the doctor and he said something was wrong.  My DNA is backwards.
+I said, "AND"?
+
+When is the worst time to have heart attack.
+During a game of Charades.
+
+# Do you know what is the problem with folks not laughing at my health jokes?
+# They are suffering from an irony deficiency.
+
+
+# 15 + 15 is 30, but why is it that
+# 16 + 16 is 32
+
+Did you know getting married involves 3 rings?
+Engagement Ring.  Wedding Ring.  Suffering.
+
+Everytime I take my dog to the park, the ducks try to eat him.
+That's what I get for getting a pure bread.
+
+I once spotted an albino dalmation.
+It was the least I could do for him.
+
+There was once a roman emperor who didn't get any older at the age of nineteen.
+His name was Constanteen.
+
+What does a poor cannibal eat to make it through college.
+Raw men.
+
+At his wedding, my best friend told me I was the worst best man ever.
+I was speechless.
+
+A couple of weeks ago, I couldn't tell if somebody was waving at me or the person behind me.
+That was the same day I lost my job as a lifeguard.
+
+# What's it called when you analyze the differences between Indiana Jones and Hans Solo?
+# Comparison Ford.
+
+Who was the Pharoah that never farted?
+Toot uncommon.
+
+I forgot to go the gym yesterday.
+That's like 5 years in a row now.
+
+What do you call a reluctant potato?
+A hesitator.
+
+Just spent the last three hours changing the muffler on my car.
+It was exhausting.
+
+Why don't computer programmers like nature?
+Too many bugs.
+
+90% of bald men still own a comb.
+They just can't part with it.
+
+Went on a date last night with a girl from a zoo.  It went great.
+She's a keeper.
+
+Did you know that God created gravity as a prank?
+But, then everyone fell for it.
+
+I'm not arrogant, but I would never work in a subway.
+It's beneath me.
+
+I know a pig who know Tai Quan Do.
+Favorite move is the Pork Chop.
+
+I'm going to return the camouflage jacket I got from Amazon.
+I can't see myself wearing it.
+
+I went to a costume party dressed as a screwdriver.
+I turned a few heads.
+

@@ -1,0 +1,57 @@
+ACCOMPLISHMENTS AND CONTRIBUTIONS
+List contributions, accomplishments (publications, projects completed, presentations), strengths, and/or progress achieved during this review period.  E.g., Think about the ways that you have worked collaboratively within your lab/group/platform or the larger organization. 
+
+- Installed Github Repo for the team.
+  Integrated it with Jira.
+  This is our "spoke" for all of our codebase management.
+  Am guiding the team to use Github appropriately.
+
+- Learned and Implemented DBT.
+  Am leading the team in its usage, by setting out architecture to create reporting tables and all objects between.
+  First delivery will be the SIT2 reports.
+  Modifying its installation to move to a 2-Environment setup, DEV/PRD.
+  Modifying it so we don't have it dropping all of our tables.
+
+- Authored a python script for creating BigQuery sandboxes.
+  Used by me to deliver Finance reports until DBT was made available by Analytics 8
+
+- Am leading the EDM team in learning Kimball design philosophies
+  Explaining 3rd normal and how to use that to think about Star Schemas.
+  Explaining how to implement it with DBT as the tool.
+  Explaining how to visualize it through OIH staging
+  
+
+- Took over all of Analytics8 transitions up to Informatica.
+  DBT
+  Terraform
+  Cloud Functions
+
+- Have guided the team in learning how to build Tableau reports using Tableau Desktop.
+  Am working towards having a publishing mechanism for getting our Tableau reports to the Cloud.
+  Studying how Tableau works "underneath the covers" and exposing that to the team.
+
+COMMUNITY AND CULTURE
+Please list contributions made towards Broad’s culture and community. Contributions can include actively working toward the success of the group (scientific, administrative, cultural), mentoring members of the Broad community, service/committee work, etc.
+- I feel I am consistently trying to teach the team everything I know.
+- I feel I am consistently accentuating the positive contributions of all the team members.
+- I feel I am consistently focusing on the team's relationships.
+- My little contribution of coffee is a good example of who I am and what I represent.
+  Sharing, comraderie, laughter, ideas, people.
+
+GOALS:
+- Acquire Github Hook expertise to the point that we don't need DBT Cloud for anything other than we want it.
+
+- Take Cloud Functions to the "Next Level".
+
+- Use Terraform to create all versions of our architecture, even sandboxes.
+
+- GCP Certification
+
+- DBT Certification
+
+FEEDBACK OF EMPLOYEE OR POSTDOC
+In this section employees/postdocs should recommend 2-5 input providers. These should be individuals who worked closely with you (the employee/postdoc) over the past year and can speak to that experience. The input providers can be part of your direct team or outside of your lab/group/platform. Managers should contact those individuals and use this section to summarize feedback collected along with their own input
+Kathryn Graham
+Beau Richman
+Dillon Kamutenga
+Teresiah Kahura

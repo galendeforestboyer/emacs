@@ -2,7 +2,12 @@
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-(("Notes.GCP.txt"
+(("index.dropdowns.html"
+ (filename . "c:/GITHUB/broad/index.dropdowns.html")
+ (front-context-string . "<!DOCTYPE html>\n")
+ (rear-context-string)
+ (position . 1))
+("Notes.GCP.txt"
  (filename . "c:/GITHUB/broad/Notes.GCP.txt")
  (front-context-string . "Could BigQuery a")
  (rear-context-string)
@@ -19,39 +24,9 @@
  (position . 171))
 ("notes.DADJOKES.txt"
  (filename . "~/.emacs.d/notes.DADJOKES.txt")
- (front-context-string . "I once swallowed")
- (rear-context-string . "s stool taken?\n\n")
- (position . 5710))
-("ErwinTemplates"
- (filename . "c:/Program Files/erwin/Data Modeler r9/BackupFiles/Templates/")
- (front-context-string . "GoogleBigQuery.f")
- (rear-context-string . "797 10-25 07:47 ")
- (position . 889))
-("rpt_OSR_Award_Close_Out_Review.sql"
- (filename . "c:/GITHUB/EDM/EDM-921-reporting-object-award-close-out-review/DBT/models/03_marts/finance/rpt_OSR_Award_Close_Out_Review.sql")
- (front-context-string . "../../01_staging")
- (rear-context-string . "_CMTMT_TRXN.sql\n")
- (position . 294))
-("oih-staging"
- (filename . "c:/GITHUB/EDM/EDM-829-compile-the-oih-stage-files/DBT/models/01_staging/oih/")
- (front-context-string . ".sql\n  -rw-rw-rw")
- (rear-context-string . "C_EXPD_ITEM_DIST")
- (position . 4551))
-("oih-mart"
- (filename . "c:/GITHUB/EDM/EDM-829-compile-the-oih-stage-files/DBT/models/03_marts/finance/")
- (front-context-string)
- (rear-context-string . "0 01-26 12:38 .\n")
- (position . 219))
-("oih_staging"
- (filename . "c:/GITHUB/EDM/EDM-829-compile-the-oih-stage-files/DBT/models/01_staging/oih/")
- (front-context-string . "_src_oih.yml\n  -")
- (rear-context-string . "074 02-07 16:47 ")
- (position . 273))
-("huron"
- (filename . "c:/GITHUB/HURON/dbt/Config/")
- (front-context-string . "OIH_Mapping.dbt.")
- (rear-context-string . "390 01-18 13:03 ")
- (position . 438))
+ (front-context-string . "I once read a bo")
+ (rear-context-string . "soned veteran.\n\n")
+ (position . 3470))
 ("Notes.OIH.txt"
  (filename . "c:/GITHUB/broad/Notes.OIH.txt")
  (front-context-string . "In DIM_VENDOR, w")
@@ -84,12 +59,7 @@
  (position . 75))
 ("notes.txt"
  (filename . "c:/GITHUB/broad/notes.boyer.txt")
- (front-context-string . "\n\nPlease hang on")
- (rear-context-string . "BruceSpringsteen")
- (position . 79))
-("index.html"
- (filename . "c:/GITHUB/broad/index.html")
- (front-context-string . "<a href=\"https:/")
- (rear-context-string . "lendar</a>]<br>\n")
- (position . 526))
+ (front-context-string . "tapestry-notific")
+ (rear-context-string . "ney@idera.com>\n\n")
+ (position . 15330))
 )

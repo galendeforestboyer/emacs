@@ -7,3 +7,6 @@
 .ssh
 network-security.data
 url
+*.elc
+*~
+eshell
