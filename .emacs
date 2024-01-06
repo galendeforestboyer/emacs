@@ -1,4 +1,21 @@
 (add-to-list 'load-path "c:/users/boyer/.emacs.d")
+(add-to-list 'load-path "c:/GITHUB/Emacs/dash")
+(require 'dash)
+(add-to-list 'load-path "c:/GITHUB/Emacs/hcl-mode")
+(require 'hcl-mode)
+(add-to-list 'load-path "c:/GITHUB/Emacs/terraform-mode")
+(require 'terraform-mode)
+(add-to-list 'load-path "c:/GITHUB/Emacs/yaml-mode")
+(require 'yaml-mode)
+(add-to-list 'load-path "c:/GITHUB/Emacs/dockerfile-mode")
+(require 'dockerfile-mode)
+(add-to-list 'load-path "c:/GITHUB/Emacs/SINGLEs/visual-basic-mode")
+
+(autoload 'visual-basic-mode "visual-basic-mode" "Visual Basic mode." t)
+(push '("\\.\\(?:frm\\|\\(?:ba\\|cl\\|vb\\)s\\)\\'" . visual-basic-mode)
+      auto-mode-alist)
+
+(setq default-directory "C:/GITHUB/edm")
 
 (require 'loccur)
 (tool-bar-mode -1)
@@ -18,8 +35,6 @@
 (add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/") t)
 (package-initialize)
 
-;; (add-to-list 'load-path "c:/GITHUB/External/yaml-mode")
-;; (require 'yaml-mode)
 ;; (add-to-list 'auto-mode-alist '("\\.yml\\'" . yaml-mode))
 ;; (add-hook 'yaml-mode-hook
 ;; 	  '(lambda ()
@@ -40,6 +55,7 @@
 (put 'downcase-region 'disabled nil)
 (put 'upcase-region 'disabled nil)
 
+(require 'ibuffer)
 (global-set-key "\C-x\M-b" 'ibuffer)
 
 (show-paren-mode 1)
@@ -50,6 +66,7 @@
 
 (setq ibuffer-saved-filter-groups
       (quote (("default"
+               ("dired" (mode . dired-mode))
                ("shell" (or
 			 (name . "\\.cmd$")
                          (mode . comint-mode)
@@ -67,7 +84,7 @@
                          (name . "^\\*scratch\\*$")
                          (name . "^\\*Messages\\*$")
 			 (name . ".emacs")))
-               ("dired" (mode . dired-mode))))))
+               ))))
 
 
 
@@ -120,3 +137,59 @@
                      "broadie-sbx-schoudha-01"
                      "broadie-sbx-tkota-edm-01")))
 
+
+
+(add-to-list 'package-archives
+             '("melpa" . "https://melpa.org/packages/") t)
+
+
+
+(defun get-all-buffer-directories ()
+  "Return a list of all directories that have at least one file
+being visited."
+  (interactive)
+  (let (l)
+    (dolist (e (sort (mapcar 'file-name-directory
+                             (cl-remove-if-not 'identity
+                                               (mapcar 'buffer-file-name
+                                                       (buffer-list))))
+                     'string<))
+      (unless (string= (car l) e)
+        (setq l (cons e l))))
+    l))
+
+(defun ibuffer-set-filter-groups-by-directory ()
+  "Set the current filter groups to filter by directory."
+  (interactive)
+  (setq ibuffer-filter-groups
+        (mapcar (lambda (dir)
+                  (cons (format "%s" dir) `((directory . ,dir))))
+                (get-all-buffer-directories)))
+  (ibuffer-update nil t))
+
+(define-key ibuffer-mode-map
+  (kbd "/ D") 'ibuffer-set-filter-groups-by-directory)
+
+
+;; (defun with-face (str &rest face-plist)
+;;   (propertize str 'face face-plist))
+
+;; (getenv "GCLOUD-PROJECT-ID")
+;; (defun shk-eshell-prompt ()
+;;   (let ((header-bg "#fff"))
+;;     (concat
+;;      (with-face (concat (eshell/pwd) " ") :background header-bg)
+;;      (with-face (format-time-string "(%Y-%m-%d %H:%M) " (current-time)) :background header-bg :foreground "#888")
+;;      (with-face
+;;       (or (ignore-errors (format "(%s)" (vc-responsible-backend default-directory))) "")
+;;       :background header-bg)
+;;      (with-face "\n" :background header-bg)
+;;      (with-face user-login-name :foreground "blue")
+;;      "@"
+;;      (with-face "localhost" :foreground "green")
+;;      (if (= (user-uid) 0)
+;;          (with-face " #" :foreground "red")
+;;        " $")
+;;      " ")))
+;; (setq eshell-prompt-function 'shk-eshell-prompt)
+;; (setq eshell-highlight-prompt nil)

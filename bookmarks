@@ -2,14 +2,19 @@
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-(("index.dropdowns.html"
+(("Notes.Codebase.txt"
+ (filename . "c:/GITHUB/broad/Notes.Codebase.txt")
+ (front-context-string . "\n\nThere is zero ")
+ (rear-context-string . "pt anywhere.\n   ")
+ (position . 750))
+("index.dropdowns.html"
  (filename . "c:/GITHUB/broad/index.dropdowns.html")
  (front-context-string . "<!DOCTYPE html>\n")
  (rear-context-string)
  (position . 1))
 ("Notes.GCP.txt"
  (filename . "c:/GITHUB/broad/Notes.GCP.txt")
- (front-context-string . "Could BigQuery a")
+ (front-context-string . "How do I use key")
  (rear-context-string)
  (position . 1))
 ("Notes.ERStudio.txt"
@@ -54,9 +59,9 @@
  (position . 209))
 ("abbrev_defs"
  (filename . "~/.emacs.d/abbrev_defs")
- (front-context-string . "    (\"gs\" \"git s")
- (rear-context-string . "brev-table\n  '(\n")
- (position . 75))
+ (front-context-string . "\n\n(define-abbrev")
+ (rear-context-string . ":count 44)\n   ))")
+ (position . 2421))
 ("notes.txt"
  (filename . "c:/GITHUB/broad/notes.boyer.txt")
  (front-context-string . "tapestry-notific")
