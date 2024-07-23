@@ -84,25 +84,6 @@
     ("uls" "--use_legacy_sql=false --max_statement_results 100000 -n 1000" nil :count 46)
    ))
 
-(define-abbrev-table 'global-abbrev-table
-  '(
-    ("gdf" "c:/GITHUB/EDM/EDM-2999-HRS-Award-Allocation-Fact/DBT/models/reporting/finance" nil :count 0)
-    ("gdh" "c:/GITHUB/EDM/EDM-2999-HRS-Award-Allocation-Fact/DBT" nil :count 0)
-    ("gdm" "c:/GITHUB/EDM/EDM-2999-HRS-Award-Allocation-Fact/DBT/models" nil :count 0)
-    ("gdr" "c:/GITHUB/EDM/EDM-2999-HRS-Award-Allocation-Fact/DBT/models/reporting" nil :count 0)
-    ("gdw" "c:/GITHUB/EDM/EDM-2999-HRS-Award-Allocation-Fact/DBT/models/warehouse" nil :count 0)
-    ("gsa" "c:/GITHUB/EDM/EDM-2999-HRS-Award-Allocation-Fact/Datasets/Release/Artifacts" nil :count 0)
-    ("gsf" "c:/GITHUB/EDM/EDM-2999-HRS-Award-Allocation-Fact/Datasets/Release/FullBuild" nil :count 0)
-    ("gsh" "c:/GITHUB/EDM/EDM-2999-HRS-Award-Allocation-Fact/Datasets/Release/EDM-2999-HRS-Award-Allocation-Fact" nil :count 2)
-    ("gsj" "c:/GITHUB/EDM/EDM-2999-HRS-Award-Allocation-Fact/Datasets/Release/Artifacts/JIRAS" nil :count 0)
-    ("gsr" "c:/GITHUB/EDM/EDM-2999-HRS-Award-Allocation-Fact/Datasets/Release" nil :count 0)
-    ("gss" "c:/GITHUB/EDM/EDM-2999-HRS-Award-Allocation-Fact/Datasets" nil :count 0)
-    ("gst" "c:/GITHUB/EDM/EDM-2999-HRS-Award-Allocation-Fact" nil :count 0)
-    ("rjr" "cat Release/Artifacts/JIRAS/EDM-2999-HRS-Award-Allocation-Fact.sql" nil :count 0)
-    ("rpy" "python ../Python/concatenator.py -f Release/EDM-2999-HRS-Award-Allocation-Fact/release.txt -o Release/Artifacts/JIRAS/EDM-2999-HRS-Award-Allocation-Fact.sql" nil :count 0)
-    ("rrl" "cat Release/EDM-2999-HRS-Award-Allocation-Fact" nil :count 0)
-   ))
-
 (define-abbrev-table 'sql-mode-abbrev-table
   '(
     ("config" "{{ config(enabled=false) }}" nil :count 36)
