@@ -2,16 +2,26 @@
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-(("Notes.Codebase.txt"
+(("notes.JIRAS.txt"
+ (filename . "c:/GITHUB/broad/notes.JIRAS.txt")
+ (front-context-string . "Remove fct_OIH_O")
+ (rear-context-string)
+ (position . 1))
+("ERStudioDA_19.3"
+ (filename . "c:/ProgramData/Idera/ERStudioDA_19.3/")
+ (front-context-string . "DatatypeMapping\n")
+ (rear-context-string . "  0 2023-04-19  ")
+ (position . 235))
+("Notes.Codebase.txt"
  (filename . "c:/GITHUB/broad/Notes.Codebase.txt")
  (front-context-string . "\n\nThere is zero ")
  (rear-context-string . "pt anywhere.\n   ")
  (position . 750))
 ("index.dropdowns.html"
- (filename . "c:/GITHUB/broad/index.dropdowns.html")
- (front-context-string . "<!DOCTYPE html>\n")
- (rear-context-string)
- (position . 1))
+ (filename . "c:/GITHUB/EDM-SANDBOX/index/DOCs/index.dropdowns.html")
+ (front-context-string . "Query\n          ")
+ (rear-context-string . "s='alnright'>Big")
+ (position . 8770))
 ("Notes.GCP.txt"
  (filename . "c:/GITHUB/broad/Notes.GCP.txt")
  (front-context-string . "How do I use key")
@@ -43,7 +53,7 @@
  (rear-context-string)
  (position . 10))
 (".emacs"
- (filename . "~/.emacs")
+ (filename . "~/.emacs.d/.emacs")
  (front-context-string . "(setq ibuffer-sa")
  (rear-context-string . "s \"default\")))\n\n")
  (position . 1366))
@@ -64,7 +74,7 @@
  (position . 2421))
 ("notes.txt"
  (filename . "c:/GITHUB/broad/notes.boyer.txt")
- (front-context-string . "tapestry-notific")
- (rear-context-string . "ney@idera.com>\n\n")
- (position . 15330))
+ (front-context-string . "rarchaka@broadin")
+ (rear-context-string . "dinstitute.org\n\n")
+ (position . 23520))
 )

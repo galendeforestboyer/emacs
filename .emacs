@@ -1,3 +1,8 @@
+(setq inhibit-startup-message t)
+(setq default-directory "c:/GITHUB/EDM")
+
+(setq my-dbt-postpend "--profiles-dir ../DOCS/.dbt/sbxs --select +reporting.finance.* --exclude reporting.finance.prms.*")
+
 (add-to-list 'load-path "c:/users/boyer/.emacs.d")
 (add-to-list 'load-path "c:/GITHUB/Emacs/dash")
 (require 'dash)
@@ -9,19 +14,21 @@
 (require 'yaml-mode)
 (add-to-list 'load-path "c:/GITHUB/Emacs/dockerfile-mode")
 (require 'dockerfile-mode)
-(add-to-list 'load-path "c:/GITHUB/Emacs/SINGLEs/visual-basic-mode")
+
+(add-to-list 'load-path "c:/GITHUB/Emacs/SINGLEs")
+(require 'visual-basic-mode)
+(require 'markdown-mode)
 
 (autoload 'visual-basic-mode "visual-basic-mode" "Visual Basic mode." t)
 (push '("\\.\\(?:frm\\|\\(?:ba\\|cl\\|vb\\)s\\)\\'" . visual-basic-mode)
       auto-mode-alist)
 
-(setq default-directory "C:/GITHUB/edm")
-
 (require 'loccur)
 (tool-bar-mode -1)
-(setq save-abbrevs 'silently)
+(setq save-abbrevs t)
 (setq-default abbrev-mode t)
 (global-set-key (kbd "\C-ct") 'toggle-truncate-lines)
+(global-set-key (kbd "\C-cl") 'display-line-numbers-mode)
 (global-unset-key (kbd "\C-z"))
 (global-unset-key (kbd "\C-x C-c"))
 
@@ -193,3 +200,12 @@ being visited."
 ;;      " ")))
 ;; (setq eshell-prompt-function 'shk-eshell-prompt)
 ;; (setq eshell-highlight-prompt nil)
+
+(autoload 'markdown-mode "markdown-mode"
+   "Major mode for editing Markdown files" t)
+(add-to-list 'auto-mode-alist
+             '("\\.\\(?:md\\|markdown\\|mkd\\|mdown\\|mkdn\\|mdwn\\)\\'" . markdown-mode))
+
+(autoload 'gfm-mode "markdown-mode"
+   "Major mode for editing GitHub Flavored Markdown files" t)
+(add-to-list 'auto-mode-alist '("README\\.md\\'" . gfm-mode))
