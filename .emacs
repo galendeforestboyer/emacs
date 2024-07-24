@@ -73,7 +73,6 @@
 
 (setq ibuffer-saved-filter-groups
       (quote (("default"
-               ("dired" (mode . dired-mode))
                ("shell" (or
 			 (name . "\\.cmd$")
                          (mode . comint-mode)
@@ -87,6 +86,7 @@
                         (name . "\\.txt$")))
                ("sql" (or
                          (name . "\\.sql$")))
+               ("dired" (mode . dired-mode))
                ("emacs" (or
                          (name . "^\\*scratch\\*$")
                          (name . "^\\*Messages\\*$")
