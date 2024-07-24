@@ -78,14 +78,14 @@
                          (mode . comint-mode)
 			 (mode . shell-mode)
                          (mode . eshell-mode)))
+               ("sql" (or
+                         (name . "\\.sql$")))
                ("python" (or
                           (name . "\\.py$")))
                ("raw" (or
 			(name . "\\.csv$")
 			(name . "\\.out$")
                         (name . "\\.txt$")))
-               ("sql" (or
-                         (name . "\\.sql$")))
                ("dired" (mode . dired-mode))
                ("emacs" (or
                          (name . "^\\*scratch\\*$")
