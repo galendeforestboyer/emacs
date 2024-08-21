@@ -76,6 +76,13 @@
     ("ptp" "--project_id=broad-bits-tapestry-prod" nil :count 21)
     ("ptka1" "--project_id=broadie-sbx-tkahura-edm-01" nil :count 43)
     ("ptko1" "--project_id=broadie-sbx-kota-edm-01" nil :count 41)
+    ("ptapd" "--project_id=broad-bits-tapestry-dev" nil :count 1)
+    ("ptapi" "--project_id=broad-bits-tapestry-int" nil :count 1)
+    ("ptapu" "--project_id=broad-bits-tapestry-uat" nil :count 1)
+    ("ptaph" "--project_id=broad-bits-tapestry-hotfix-02" nil :count 1)
+    ("ptapp" "--project_id=broad-bits-tapestry-prod" nil :count 1)
+    ("poihd" "--project_id=broad-bits-tapestry-oih-dev" nil :count 1)
+    ("poihp" "--project_id=broad-bits-tapestry-oih-prod" nil :count 1)
     ("uls" "--use_legacy_sql=false --max_statement_results 100000 -n 1000" nil :count 46)
    ))
 
